@@ -34,8 +34,8 @@
 	right: 10px;
 	z-index: 1000;
 	position: absolute;
-	background: #CBBFAE;
-	background: rgba(190,176,155, 0.4);
+	background: navy;
+	background: rgba(0,0,128, 0.4);
 	border-left: 4px solid rgba(255,255,255,0.7);
 	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);	
@@ -58,7 +58,7 @@
 .sb-slider li.sb-current .sb-description:hover {
 	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=99)";
 	filter: alpha(opacity=99);	
-	background: rgba(190,176,155, 0.7);
+	background: rgba(0,0,128, 0.7);
 }
 
 .sb-perspective {
